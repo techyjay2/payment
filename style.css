@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+position: absolute;
+width: 1440px;
+height: 128px;
+left: 0px;
+top: 0px;
+border-bottom: 1px solid #EEEEEE;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
